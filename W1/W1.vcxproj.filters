@@ -30,5 +30,8 @@
     <ClCompile Include="W1-1_05_rest_check.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="W1-1_06_enhance_check.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
