@@ -18,5 +18,8 @@
     <ClCompile Include="W1-1_01_potion_shop.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="W1-1_02_potion_craft.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
