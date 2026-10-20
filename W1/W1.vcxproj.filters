@@ -27,5 +27,8 @@
     <ClCompile Include="W1-1_04_dungeon_entry.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="W1-1_05_rest_check.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
